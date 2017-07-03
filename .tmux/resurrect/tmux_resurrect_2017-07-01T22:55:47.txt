@@ -1,0 +1,3 @@
+pane	devflow	2	:bash	1	:*	0	:/home/ja	1	bash	:vim
+window	devflow	2	1	:*	c960,211x57,0,0,3
+state	devflow	

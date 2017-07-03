@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/ja	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/ja	1	bash	:
+window	0	0	1	:*	464d,213x43,0,0{106x43,0,0,0,106x43,107,0,1}
+state	0	

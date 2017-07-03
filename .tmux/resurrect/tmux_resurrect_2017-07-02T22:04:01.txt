@@ -1,0 +1,10 @@
+pane	0	0	:bash	0	:-	0	:/home/ja	1	bash	:
+pane	0	1	:bash	1	:*	0	:/home/ja	1	bash	:
+pane	0	1	:bash	1	:*	1	:/home/ja	0	bash	:
+pane	devflow	2	:bash	1	:*	0	:/home/ja	1	bash	:
+pane	pydev	0	:bash	1	:*	0	:/home/ja	1	bash	:
+window	0	0	0	:-	cd5e,211x58,0,0,1
+window	0	1	1	:*	f682,211x58,0,0{105x58,0,0,2,105x58,106,0,3}
+window	devflow	2	1	:*	cd61,211x58,0,0,4
+window	pydev	0	1	:*	cd5d,211x58,0,0,0
+state	devflow	0

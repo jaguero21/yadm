@@ -1,0 +1,7 @@
+pane	0	0	:bash	1	:*	0	:/home/ja	1	bash	:
+pane	devflow	2	:bash	1	:*	0	:/home/ja	1	vim	:vim
+pane	devflow	2	:bash	1	:*	1	:/home/ja	0	bash	:
+pane	devflow	2	:bash	1	:*	2	:/home/ja	0	bash	:
+window	0	0	1	:*	cd5d,211x58,0,0,0
+window	devflow	2	1	:*	54d8,211x58,0,0{30x58,0,0,1,180x58,31,0[180x28,31,0,2,180x29,31,29,3]}
+state	devflow	

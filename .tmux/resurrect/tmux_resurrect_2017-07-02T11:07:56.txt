@@ -1,0 +1,7 @@
+pane	0	0	:bash	1	:*	0	:/home/ja	1	bash	:
+pane	devflow	2	:bash	1	:*	0	:/var/lib	0	python	:/usr/bin/python -O /usr/bin/ranger
+pane	devflow	2	:bash	1	:*	1	:/home/ja	0	bash	:
+pane	devflow	2	:bash	1	:*	2	:/home/ja	1	bash	:
+window	0	0	1	:*	cd5d,211x58,0,0,0
+window	devflow	2	1	:*	14a3,211x58,0,0{63x58,0,0,1,147x58,64,0[147x28,64,0,2,147x29,64,29,3]}
+state	devflow	

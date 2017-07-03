@@ -1,0 +1,9 @@
+pane	0	0	:bash	1	:*	0	:/home/ja	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/ja	0	bash	:
+pane	0	0	:bash	1	:*	2	:/home/ja	1	bash	:
+pane	0	1	:bash	0	:	0	:/home/ja	1	bash	:
+pane	0	2	:bash	0	:-	0	:/home/ja	1	bash	:vim
+window	0	0	1	:*	3820,213x43,0,0{100x43,0,0,0,112x43,101,0[112x23,101,0,1,112x19,101,24,4]}
+window	0	1	0	:	b85f,213x43,0,0,2
+window	0	2	0	:-	b860,213x43,0,0,3
+state	0	

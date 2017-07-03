@@ -1,0 +1,9 @@
+pane	devflow	0	:[tmux]work-space	1	:*	0	:/home/ja	0	bash	:
+pane	devflow	0	:[tmux]work-space	1	:*	1	:/home/ja	0	bash	:
+pane	devflow	0	:[tmux]work-space	1	:*	2	:/home/ja	1	bash	:
+pane	devflow	1	:bash	0	:	0	:/home/ja	1	bash	:
+pane	devflow	2	:bash	0	:-	0	:/home/ja	1	bash	:vim
+window	devflow	0	1	:*	1656,213x43,0,0{96x43,0,0,0,116x43,97,0[116x23,97,0,1,116x19,97,24,4]}
+window	devflow	1	0	:	b85f,213x43,0,0,2
+window	devflow	2	0	:-	b860,213x43,0,0,3
+state	devflow	
